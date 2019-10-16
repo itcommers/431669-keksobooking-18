@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Евгений Кравченко](https://up.htmlacademy.ru/javascript/18/user/431669).
-* Наставник: `Попов Антон`.
+* Наставник: `Антон Попов`.
 
 ---
 
